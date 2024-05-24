@@ -44,3 +44,5 @@ if __name__ == "__main__":
         print(id_number)
     # 匯出符合身分證格式的文字符到新的UTF-8編碼的文本文件
     export_to_txt(valid_ids, 'output.txt')
+
+    printf()
